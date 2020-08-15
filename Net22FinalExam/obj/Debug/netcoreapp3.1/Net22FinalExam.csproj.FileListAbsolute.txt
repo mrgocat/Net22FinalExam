@@ -1,0 +1,13 @@
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.exe
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.deps.json
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.runtimeconfig.json
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.runtimeconfig.dev.json
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.dll
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\bin\Debug\netcoreapp3.1\Net22FinalExam.pdb
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.csprojAssemblyReference.cache
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.AssemblyInfoInputs.cache
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.AssemblyInfo.cs
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.dll
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.pdb
+C:\Users\kerei\source\repos\Net22FinalExam\Net22FinalExam\obj\Debug\netcoreapp3.1\Net22FinalExam.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kerei\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kerei\\.nuget\\packages"
+    ]
+  }
+}
